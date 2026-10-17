@@ -34,6 +34,7 @@ public class DirectLocators {
 //		WebElement checkBox = driver.findElement(By.className("custom-checkbox"));
 		WebElement checkBox = driver.findElement(By.cssSelector(".custom-checkbox"));
 		checkBox.click();
+		
 
 //		WebElement regLink = driver.findElement(By.linkText("Register"));
 //		WebElement regLink = driver.findElement(By.partialLinkText("Regi"));
